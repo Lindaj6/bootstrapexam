@@ -1,3 +1,31 @@
-page1{
-    background-color: rgb(117, 144, 167);
+.home{
+    background-color: rgb(97, 96, 96);
+    color: rgb(247, 202, 202);
+}
+.container-fluid{
+    background-color: rgb(174, 208, 238);
+}
+
+.one{
+    background-color: rgb(149, 175, 125);
+    color: rgb(225, 245, 217);
+}
+
+.two{
+    background-color: rgb(155, 176, 192);
+    color: rgb(79, 118, 119);
+}
+
+.three{
+    background-color: rgb(191, 173, 202);
+    color: rgb(97, 80, 102);
+}
+
+.four{
+    background-color: rgb(228, 191, 150);
+    color: rgb(163, 89, 20);
+}
+.five{
+    background-color: rgb(221, 180, 195);
+    color: rgb(99, 64, 87);
 }
